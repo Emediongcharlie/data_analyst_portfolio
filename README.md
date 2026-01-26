@@ -35,6 +35,37 @@ This analysis presents the impact of various factors such name of car, transmiss
 
 **[Dashboard](https://github.com/Emediongcharlie/Car_sales_and_use_analysis/blob/main/Car%20Sales%20and%20Use%20Analysis.png)**
 
+## WORK EXPERIENCE
+
+### Data Analyst/Trainer
+TechLodge (July 2025 – present)
+-	Analysed structured and unstructured dataset to uncover trends, patterns and actionable insights that support business decision-making.
+-	Cleaned, transformed and validated data to ensure accuracy, consistency and reliability across reports.
+-	Designed analytical interactive dashboards and visual report using data analysis and visualization tools to effectively communicate insights
+-	Prepared analytical report for both technical and non-technical stakeholders.
+-	Trained individuals and groups on data analysis concepts, tools and best practices through project-based sessions with real-world datasets to enhance learners’ analytical skills
+-	Provided technical training and mentorship to students in data analysis, hence improving their practical understanding and development.
+
+### Backend Engineer
+Flexisaf Edusoft (May 2025 – July 2025)
+-	Designed and developed scalable backend applications using Spring Boot, ensuring optimal performance and maintainability.
+-	Implemented RESTful APIs to support client-facing systems and enhance data exchange efficiency.
+-	Managed database design and migrations using MySQL, POSGRESQL and Flyway, maintaining consistency across environments.
+-	Implemented testing using JUnit and Mockito, improving system reliability and reducing bugs before deployment.
+-	Collaborated with teams towards accomplishment of projects.
+-	Collaborated closely with cross-functional teams to achieve timely and successful project delivery.
+
+### Software Engineer
+Semicolon Africa (Feb 2024 – May 2025)
+-	Gained hands-on experience developing scalable applications with Java, Spring Boot, python and React.
+-	Participated in collaborative engineering projects using Agile and version control (Git/GitHub).
+-	Strengthened problem-solving and design thinking skills through real-world product challenges.
+-	Practiced clean coding, testing, refactoring, and API development for production-grade systems.
+-	Developed full-stack projects with React, REST APIs, and secure backend integrations
+-	Improved communication & teamwork through peer reviews, pair programming, and project presentations.
+-	Built models that efficiently helps in different sectors
+
+
 # CONTACT
 
 [email](emediongcharlie@mail.com)
