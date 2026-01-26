@@ -1,4 +1,4 @@
-# DATA ANALYST
+# DATA ANALYST PORTFOLIO
 
 Welcome to my Portfolio, My name is Emediong Charlie, I specialize in transforming data into actionable insights, experienced in data cleaning, visualization, and reporting through data analysis tools and techniques in order to support informed business decisions and passionate about using data to drive efficiency, growth, and strategic planning.
 
@@ -25,7 +25,7 @@ This was an exploratory analysis of 37,542 insurance policy records to uncover c
 
 **[View project reository](https://github.com/Emediongcharlie/car_insurance_policies_analysis)**
 
-[**Dashboard](https://github.com/Emediongcharlie/car_insurance_policies_analysis/blob/main/Car%20Insurance%20Analysis%20Dashboard.png)**
+**[Dashboard](https://github.com/Emediongcharlie/car_insurance_policies_analysis/blob/main/Car%20Insurance%20Analysis%20Dashboard.png)**
 
 ## Car Sales and Use Analysis
 **Description**
