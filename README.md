@@ -35,7 +35,7 @@ This analysis presents the impact of various factors such name of car, transmiss
 
 **[Dashboard](https://github.com/Emediongcharlie/Car_sales_and_use_analysis/blob/main/Car%20Sales%20and%20Use%20Analysis.png)**
 
-## WORK EXPERIENCE
+# WORK EXPERIENCE
 
 ### Data Analyst/Trainer
 TechLodge (July 2025 – present)
