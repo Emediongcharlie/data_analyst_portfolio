@@ -68,6 +68,6 @@ Semicolon Africa (Feb 2024 – May 2025)
 
 # CONTACT
 
-[email](emediongcharlie@mail.com)
-[LinkedIn](www.linkedin.com/in/emediong-charlie-61bb09288)
-[Github](https://github.com/Emediongcharlie?tab=repositories)
+* [email](emediongcharlie@mail.com)
+* [LinkedIn](www.linkedin.com/in/emediong-charlie-61bb09288)
+* [Github](https://github.com/Emediongcharlie?tab=repositories)
